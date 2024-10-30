@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.csc.TestTriangleNumberCalculator" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-16T17:13:03" hostname="EL_TOTE1" time="0.014">
+<testsuite name="com.csc.TestTriangleNumberCalculator" tests="16" skipped="0" failures="0" errors="0" timestamp="2024-10-30T19:48:02" hostname="EL_TOTE1" time="0.043">
   <properties/>
-  <testcase name="TriangleNumberCalculator()" classname="com.csc.TestTriangleNumberCalculator" time="0.014"/>
+  <testcase name="TriangleNumberCalculator()" classname="com.csc.TestTriangleNumberCalculator" time="0.018"/>
+  <testcase name="TriangleNumberCalculatoradd1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="TriangleNumberCalculatoradd2()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="TriangleNumberCalculatoradd3()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="TriangleNumberCalculatordiv1()" classname="com.csc.TestTriangleNumberCalculator" time="0.002"/>
+  <testcase name="TriangleNumberCalculatordiv2()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="TriangleNumberCalculatorsub1()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="TriangleNumberCalculatorsub2()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="TriangleNumberCalculatorsub3()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="SequenceTest1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="SequenceTest2()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="TriangleNumberCalculator1()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="TriangleNumberCalculator2()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="TriangleNumberCalculator3()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="TriangleNumberCalculatormult1()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="TriangleNumberCalculatormult2()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
